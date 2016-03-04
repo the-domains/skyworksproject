@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SkyworksProject]]></title>
+        <description><![CDATA[SkyworksProject]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 18:26:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Last Weekend at Skyworks Dec 11, 2015]]></title>
+            <description><![CDATA[<article><h1>Last Weekend at Skyworks Dec 11, 2015</h1><p>On Friday, Elliot and Kyle fixed a screen on a drone controller that would no longer work if it were bent or hooked up to a tripod. Friday was a beautiful day (60 degrees in December in Syracuse? Unheard of!), so Elliot and Chase flew their drones on the SU quad to get some aerial photographs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b84bdcc9c9c728411758455f4e48fba186196d48.jpg"></article>]]></description>
+            <link>undefined3aa2cfe3-6392-4913-a3e1-7704a19e2d3f/index.html</link>
+            <guid isPermaLink="false">3aa2cfe3-6392-4913-a3e1-7704a19e2d3f</guid>
+            <pubDate>Fri, 04 Mar 2016 18:25:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
