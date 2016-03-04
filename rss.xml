@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SkyworksProject]]></title>
         <description><![CDATA[SkyworksProject]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skyworksproject/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:26:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 22:25:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skyworksproject/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Saturday at Skyworks Dec 12, 2015]]></title>
+            <description><![CDATA[<article><h1>Saturday at Skyworks Dec 12, 2015</h1><p>On Saturday, Arland, Chase, Kyle, Elliot, and Shira flew the SkyTether and the Inspire in Thornden Park.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4b7122b-99fb-487f-9026-67eeed6e82f2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skyworksproject/b7be95cd-d22f-46d0-abe0-925cf8047355/index.html</link>
+            <guid isPermaLink="false">b7be95cd-d22f-46d0-abe0-925cf8047355</guid>
+            <pubDate>Fri, 04 Mar 2016 22:24:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Last Weekend at Skyworks Dec 11, 2015]]></title>
             <description><![CDATA[<article><h1>Last Weekend at Skyworks Dec 11, 2015</h1><p>On Friday, Elliot and Kyle fixed a screen on a drone controller that would no longer work if it were bent or hooked up to a tripod. Friday was a beautiful day (60 degrees in December in Syracuse? Unheard of!), so Elliot and Chase flew their drones on the SU quad to get some aerial photographs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b84bdcc9c9c728411758455f4e48fba186196d48.jpg"></article>]]></description>
-            <link>undefined3aa2cfe3-6392-4913-a3e1-7704a19e2d3f/index.html</link>
+            <link>https://thegrid.ai/skyworksproject/3aa2cfe3-6392-4913-a3e1-7704a19e2d3f/index.html</link>
             <guid isPermaLink="false">3aa2cfe3-6392-4913-a3e1-7704a19e2d3f</guid>
             <pubDate>Fri, 04 Mar 2016 18:25:46 GMT</pubDate>
         </item>
