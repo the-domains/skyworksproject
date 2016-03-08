@@ -2,6 +2,7 @@ name: SkyworksProject
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.59251
+title: Skyworks Project
 cta:
   domain: null
   bucket: null
