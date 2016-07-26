@@ -1,7 +1,7 @@
 name: Skyworks Project
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.59251
+layout_spectrum: 1
+typography_spectrum: 0.4769
 title: Skyworks Project
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#1e3858'
     - '#f2f2f2'
     - '#4f5e72'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 1
+  brandStrength: 0.9375
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
